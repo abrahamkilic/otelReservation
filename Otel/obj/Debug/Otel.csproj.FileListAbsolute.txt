@@ -1,0 +1,81 @@
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\bin\Debug\Otel.exe.config
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\bin\Debug\Otel.exe
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\bin\Debug\Otel.pdb
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\obj\Debug\Otel.csproj.AssemblyReference.cache
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\obj\Debug\Otel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\obj\Debug\Otel.AnaSayfa.resources
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\obj\Debug\Otel.Properties.Resources.resources
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\obj\Debug\Otel.csproj.GenerateResource.cache
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\obj\Debug\Otel.csproj.CoreCompileInputs.cache
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\obj\Debug\Otel.exe
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\obj\Debug\Otel.pdb
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\obj\Debug\Otel.Musteri.resources
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\obj\Debug\Otel.RezervListele.resources
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\obj\Debug\Otel.Firmalar.resources
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\obj\Debug\Otel.Odalar.resources
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\obj\Debug\Otel.csproj.CopyComplete
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\obj\Debug\Otel.Form2.resources
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\obj\Debug\Otel.Oteller.resources
+C:\Users\Alican KOÇ\source\repos\Otel\Otel\obj\Debug\Otel.Form3.resources
+C:\Users\ibrahim\source\repos\Otel\Otel\bin\Debug\Otel.exe.config
+C:\Users\ibrahim\source\repos\Otel\Otel\bin\Debug\Otel.exe
+C:\Users\ibrahim\source\repos\Otel\Otel\bin\Debug\Otel.pdb
+C:\Users\ibrahim\source\repos\Otel\Otel\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ibrahim\source\repos\Otel\Otel\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ibrahim\source\repos\Otel\Otel\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ibrahim\source\repos\Otel\Otel\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.csproj.AssemblyReference.cache
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.AnaSayfa.resources
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.Firmalar.resources
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.Form2.resources
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.Form3.resources
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.Musteri.resources
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.Odalar.resources
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.Oteller.resources
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.Properties.Resources.resources
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.RezervListele.resources
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.csproj.GenerateResource.cache
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.csproj.CopyComplete
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.exe
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.pdb
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.csproj.ResolveComReference.cache
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.EXPORT.resources
+C:\Users\ibrahim\source\repos\Otel\Otel\obj\Debug\Otel.IMPORT.resources
+C:\Users\ibrahim\source\repos\Otel\Otel\bin\Debug\Excel.dll
+C:\Users\ibrahim\source\repos\Otel\Otel\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ibrahim\source\repos\Otel\Otel\bin\Debug\Excel.pdb
+C:\Users\ibrahim\Desktop\Otel\Otel\bin\Debug\Otel.exe.config
+C:\Users\ibrahim\Desktop\Otel\Otel\bin\Debug\Otel.exe
+C:\Users\ibrahim\Desktop\Otel\Otel\bin\Debug\Otel.pdb
+C:\Users\ibrahim\Desktop\Otel\Otel\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ibrahim\Desktop\Otel\Otel\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ibrahim\Desktop\Otel\Otel\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ibrahim\Desktop\Otel\Otel\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\ibrahim\Desktop\Otel\Otel\bin\Debug\Excel.dll
+C:\Users\ibrahim\Desktop\Otel\Otel\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ibrahim\Desktop\Otel\Otel\bin\Debug\Excel.pdb
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.csproj.AssemblyReference.cache
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.csproj.ResolveComReference.cache
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.AnaSayfa.resources
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.Firmalar.resources
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.Form2.resources
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.Form3.resources
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.EXPORT.resources
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.IMPORT.resources
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.Musteri.resources
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.Odalar.resources
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.Oteller.resources
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.Properties.Resources.resources
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.RezervListele.resources
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.csproj.GenerateResource.cache
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.csproj.CopyComplete
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.exe
+C:\Users\ibrahim\Desktop\Otel\Otel\obj\Debug\Otel.pdb
